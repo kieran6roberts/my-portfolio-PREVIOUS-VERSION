@@ -1,4 +1,4 @@
-# My Personal Portfolio
+# My Personal Portfolio - ARCHIVED (Outdated)
 
 A personal front-end developer portfolio site for myself highlighting my skills and personal projects. It includes case studies of my primary projects, an about section and contact information.
 
@@ -11,7 +11,6 @@ A personal front-end developer portfolio site for myself highlighting my skills 
 The primary objective of this project was to create a responsive and stylish single page application to house my work and show my skills to potential employers or clients.
 
 ## Technologies
-
  
 * html
 * scss/sass 1.29.0
